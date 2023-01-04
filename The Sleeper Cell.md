@@ -30,10 +30,16 @@ I urgs oke lpia tvpv myn hsde ilehrri yomvd wug ep hrx wgzda ayuvonr shwkmn (vi 
 ```
 ## 4. ID the output from the base64 decryption
 it shows it's ciphered using vigenère encryption 
+```
+I hope ere this time you have already found out by the words already spoken (if you are not most dull, ignorant, and foolish) the certain matter of the learned Philosophers blessed stone, whereon Alchemy works, while we endeavor to perfect the imperfect, and that with things more then perfect. And for that nature has delivered us the imperfect only with the perfect, it is our part to make the matter (in the former Chapters declared unto us) more then perfect by our artificial labor. And if we know not the manner of working, what is the cause that we do not see how nature (which of long time has perfected metals) does continually work! Do we not see, that in the Mines through the continual heat that is in the mountains thereof, the grossness of water is so decocted and thickened, that in continuance of time it becomes Argent-vive? And that of the fatness of the earth through the same heat and decoction, Sulphur is engendered! And that through the same heat without intermission continued in them, all metals are engendered of them according to their purity and impurity? and that nature does by decoction alone perfect or make all metals, as well perfect as imperfect? 0 extreme madness! what, I pray you, constrains you to seek to perfect the foresaid things by strange melancholical and fantastical regiments! as one says: Woe to you that will overcome nature, and make metals more then perfect by a new regiment, or work sprung from your own senseless brains. God has given to nature a straight way, to wit, continual concoction, and you like fools despise it, or else know it not. ((SoFi-Stadium-33.953417,-118.338863,18)) Again, fire and Azot, are sufficient for you. And in another place, Heat perfects all things. And elsewhere, see, see, see, and be not weary. And in another place, let your fire be gentle, and easy, which being always equal, may continue burning: and let it not increase, for if it does, you shall suffer great loss. And in another place, Know you that in one thing, to wit, the stone, by one way, to wit, decoction, and in one vessel the whole mastery is performed. And in another place, patiently, and continually, and in another place, grind it seven times. And in another place, It is ground with fire, And in another place, this work is very like to the creation of man: for as the Infant in the beginning is nourished with light meats, but the bones being strengthened with stronger: so this mastery also, first it must have an easy fire, whereby we must always work in every essence of decoction. And though we always speak of a gentle fire, yet in truth, we think that in governing the work, the fire must always by little and little be increased and augmented unto the end.
+```
 ## 5. Use vigenère to decode 
 using Androktasiai as a key to get the full message
 ## 6. Getting the flag
 Use this password to unzip the file and get the card
+```
+((SoFi-Stadium-33.953417,-118.338863,18))
+```
 
 
 
